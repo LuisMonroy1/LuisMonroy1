@@ -5,7 +5,7 @@
 
 Engineering professional passionate about using programing and technology for ultimately enhancing our society. Eager to build a long-term career focused on the field of automatization. Distinctly organized, analytical, creative, and detail oriented.
 
-- 🔭 Currently working on Prediction Models (Python)
+- 🔭 Currently working on Predictive Models (Python)
 - 🌱 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate on any new and interesting projects.
 - 🤔 Researching all the different AI tools related to Chat GPT.
