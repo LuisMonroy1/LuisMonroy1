@@ -1,16 +1,14 @@
-### Hi there 👋
+https://raw.githubusercontent.com/LuisMonroy1/LuisMonroy1/main/header.webp
 
-<!--
-**LuisMonroy1/LuisMonroy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, Im Fernando 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering professional passionate about using programing and technology for ultimately enhancing our society. Eager to build a long-term career focused on the field of automatization. Distinctly organized, analytical, creative, and detail oriented.
+
+- 🔭 Currently working on Prediction Models (Python)
+- 🌱 Learning anything I can get my hands on!
+- 👯 Always looking to collaborate on any new and interesting projects.
+- 🤔 Researching all the different AI tools related to Chat GPT.
+- 💬 Ask me about anything I can explain from my repos.
+- 📫 Let's Connect - [LinkedIn] (https://www.linkedin.com/in/luis-fernando-monroy-a66289237)
+- ⚡ Fun fact: Native Spanish and English Speaker, still trying to learn German. Ich Spreche Ein Bisschen Deutsch.
