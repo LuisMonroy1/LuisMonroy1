@@ -3,7 +3,7 @@
 
 # Hi, Im Fernando 👋
 
-Engineering professional passionate about using programing and technology for ultimately enhancing our society. Eager to build a long-term career focused on the field of automatization. Distinctly organized, analytical, creative, and detail oriented.
+Engineering professional. Passionate about using programing and technology for ultimately enhancing our society. Eager to build a long-term career focused on the field of automatization.
 
 - 🔭 Currently working on Predictive Models (Python)
 - 🌱 Learning anything I can get my hands on!
